@@ -17,7 +17,7 @@ using namespace std;
  */
 int main(int argc, char** argv) 
 {
-    cout<<"hellooo world dd"<<endl;
+    cout<<"hellooo world d"<<endl;
     return 0;
 }
 
